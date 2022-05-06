@@ -14,11 +14,12 @@ This lib helps to introduce the App-by view page based on Kotlin.
 
 ## 📚Installation
 
-Install my-project with https://jitpack.io/
+Install my-project with https://jitpack.io/  [![](https://jitpack.io/v/Mori-hub/Intro_vp2.svg)](https://jitpack.io/#Mori-hub/Intro_vp2)
+
 
 ```bash
   dependencies {
-	        implementation 'com.github.Mori-hub:'
+	  implementation 'com.github.Mori-hub:Intro_vp2:1.0.0'
 	}
 ```
     
